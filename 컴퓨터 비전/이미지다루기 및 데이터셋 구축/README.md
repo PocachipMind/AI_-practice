@@ -63,3 +63,9 @@ Data의 개수 보여주는 plt 있습니다. ( data_split.py )
 13.20부터 시작
 
 13.20 > Yolo 5 에서 모델 통해서 이미지 다루는 코드 
+
+13.25 > pdf로 yolo 사용방법 및 CVAT 관련 설명 있음. R-CNN [ 파일 용량으로 인해 복제 실패. MS 레파지토리에 갈 것 ]
+
+13.30 > mmdetection / voc_to_yolo
+
+14.01 > 프젝진행하며 - 폴더 명 변경/ json 시각화 
