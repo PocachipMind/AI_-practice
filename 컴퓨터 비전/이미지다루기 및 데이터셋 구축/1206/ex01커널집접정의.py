@@ -13,7 +13,7 @@ image_path = "./cat.png"
 image = cv2.imread(image_path)
 
 # 커널 생성 처리
-kernel = np.ones((10,10)) / 25.0 # 모두 더하면 1이 되도록 정규화
+kernel = np.ones((10,10)) / 25.0 # 모두 더하면 1이 되도록 정규화 ( 각 요소마다 0.04 가 100개인거보면 아마 선생님이 잘못 이해한듯 아마 100으로 나누는게 맞음 )
 image_kernel = cv2.filter2D(image, -1, kernel)
 print(kernel)
 image_show(image_kernel)
