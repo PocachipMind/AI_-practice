@@ -40,6 +40,8 @@ data split 코드 있음
 #### 12.14 > 
 강의 내용 pdf에 보면 PyTorch vs TensorFlow 장 단 비교가 있습니다.
 
+강의에 사용한 PyTorch 버전(v1.9.0) : conda install pytorch==1.9.0 torchvision==0.10.0 torchaudio==0.9.0 cudatoolkit=11.3 -c pytorch -c conda-forge
+
 Custom CSV 데이터셋 있습니다.(직접)
 
 #### 12.19Project > 
