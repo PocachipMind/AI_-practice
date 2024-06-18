@@ -44,7 +44,7 @@ data split 코드 있음
 
 Tensor에 대한 자세한 예시가 있습니다 ex ) 합치기.. 행렬곱.. 등등
 
-Custom CSV 데이터셋 있습니다.(직접)
+Custom CSV 데이터셋 있습니다.(직접) - 데이터 셋에대한 개념도 강의에 탑재 !
 
 #### 12.19Project > 
 mymade 이미지 관련 Custom 데이터셋 있습니다.
