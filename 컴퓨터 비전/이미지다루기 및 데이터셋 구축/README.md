@@ -42,6 +42,8 @@ data split 코드 있음
 
 강의에 사용한 PyTorch 버전(v1.9.0) : conda install pytorch==1.9.0 torchvision==0.10.0 torchaudio==0.9.0 cudatoolkit=11.3 -c pytorch -c conda-forge
 
+Tensor에 대한 자세한 예시가 있습니다 ex ) 합치기.. 행렬곱.. 등등
+
 Custom CSV 데이터셋 있습니다.(직접)
 
 #### 12.19Project > 
