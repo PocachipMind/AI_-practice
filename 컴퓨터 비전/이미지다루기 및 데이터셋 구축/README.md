@@ -38,6 +38,8 @@ CVAT 를 활용한 JSON 이미지 라벨링
 data split 코드 있음
 
 #### 12.14 > 
+강의 내용 pdf에 보면 PyTorch vs TensorFlow 장 단 비교가 있습니다.
+
 Custom CSV 데이터셋 있습니다.(직접)
 
 #### 12.19Project > 
