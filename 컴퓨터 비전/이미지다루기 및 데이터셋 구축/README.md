@@ -52,6 +52,11 @@ Custom CSV 데이터셋 있습니다.(직접) - 데이터 셋에대한 개념도
 
 오전 11시쯤 강의에 주요 내용 ( 모델 찾기, 대회 ) 
 
+![image](https://github.com/PocachipMind/AI_-practice/assets/101550112/a933f719-a4fe-438e-9774-3efc272ada72)
+
+대회 나갈때 쓰면 좋은 코드 기재 [ 오후 1 : 20 ]
+
+
 #### 12.19Project > 
 mymade 이미지 관련 Custom 데이터셋 있습니다.
 
