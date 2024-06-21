@@ -64,12 +64,12 @@ Custom CSV 데이터셋 있습니다.(직접) - 데이터 셋에대한 개념도
 
 어그 멕이는 여러 방법 코드 기재 
 
-#### 12.19Project
+#### 12.19Project >
 mymade 이미지 관련 Custom 데이터셋 있습니다.
 
 크롤링 코드있습니다.
 
-#### 12.19Project/1222 최종코드 
+#### 12.19Project/1222 최종코드 > (last)
 
 MetricMonitor 코드 존재
 
