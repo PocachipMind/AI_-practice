@@ -109,3 +109,10 @@ Data의 개수 보여주는 plt 있습니다. ( data_split.py )
 13.30 > mmdetection / voc_to_yolo
 
 14.01 > 프젝진행하며 - 폴더 명 변경/ json 시각화 
+
+--------------------------------------------------
+
+### 참고 자료
+https://github.com/JinFree/Image_Classification_with_DL_in_Colab
+
+https://github.com/JinFree/Image_Classification_with_DL_in_Colab/blob/master/PyTorch/ipynb_files/PyTorch_Image_Classification_Training_From_Scratch.ipynb
